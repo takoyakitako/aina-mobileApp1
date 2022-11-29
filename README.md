@@ -1,1 +1,1 @@
-# aina-mobileApp1
+# 대학소개 앱
