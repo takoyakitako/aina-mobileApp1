@@ -2,6 +2,8 @@
 
 ## 메인 화면
 * 대학 소개, 영상, 캐릭터, 사진페이지에 링크
+
+
 ![uni1](https://user-images.githubusercontent.com/90558511/204464511-3ab8b893-5d1c-4224-a3d3-fe0465273782.png)
 
 ## 소개 페이지
